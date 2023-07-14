@@ -1,4 +1,4 @@
-Hi, I'm Deen Qureshi
+Hi, I'm Deen
 =============================
 
 Trainee Full-stack Developer with the School of Code (Seeking Junior Role)
