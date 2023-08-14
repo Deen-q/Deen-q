@@ -1,10 +1,10 @@
 Hi, I'm Deen
 =============================
 
-Trainee Full-stack Developer with the School of Code (Seeking Junior Role)
+Trainee Full-stack Developer with the School of Code (Seeking Associate/Junior/Apprentice Role)
 ----------------------------
 
-A former molecular and microbiologist, who's excited to start their *life-long commitment* to learning as a developer. It'll be tough; and that's ok.
+Former molecular biologist and microbiologist, who's excited to start their *life-long commitment* to learning as a developer. It'll be tough; and that's ok.
 <br>
 <br>
 "Excellence withers without an adversary" - Seneca
