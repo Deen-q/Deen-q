@@ -1,8 +1,8 @@
 Hi, I'm Deen
 =============================
 
-Trainee Full-stack Developer with the School of Code
-----------------------------
+Trainee Full-stack Developer with the <a href='https://www.schoolofcode.co.uk/'>School of Code</a> (recently completed Bootcamp)
+<br>
 (Seeking Associate/Junior/Apprentice Role)
 ----------------------------
 
