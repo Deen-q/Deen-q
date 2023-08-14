@@ -1,7 +1,8 @@
 Hi, I'm Deen
 =============================
 
-Trainee Full-stack Developer with the School of Code 
+Trainee Full-stack Developer with the School of Code
+----------------------------
 (Seeking Associate/Junior/Apprentice Role)
 ----------------------------
 
