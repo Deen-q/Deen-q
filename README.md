@@ -4,7 +4,7 @@ Hi, I'm Deen
 Trainee Full-stack Developer with the <a href='https://www.schoolofcode.co.uk/'>School of Code</a> (recently completed Bootcamp)
 <br>
 <br>
-(Seeking Associate/Junior/Apprentice Role)
+(Seeking Associate/Junior/Apprentice Role - if you want my CV, message me on LinkedIn!)
 ----------------------------
 
 Former molecular biologist and microbiologist, who's excited to start their *life-long commitment* to learning as a developer. It'll be tough; and that's ok.
