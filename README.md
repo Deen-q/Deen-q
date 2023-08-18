@@ -19,7 +19,7 @@ For more details on a particular project, please see the respective README.md
 |------------|------|------|------------------|-|
 |  Portfolio | [GitHub](https://github.com/Deen-q/portfolio-site) | [Site](https://deen-q.vercel.app/)| React, Node |Finished; recieves updates|
 | Local Buzz | [GitHub](https://github.com/Deen-q/SwampySyntax)   |[Site](https://local-buzz.netlify.app/homepage)| React, Node, MongoDB, RTL (testing) | Finished |
-| Pokemon App| [GitHub](https://github.com/Deen-q/pokemonApp)     |                      N/A                      | React, Node | Incomplete |
+| Pokemon App| [GitHub](https://github.com/Deen-q/pokemonApp)     |                      N/A                      | React, Node | Incomplete; recieves updates |
 
 </div>
 
