@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, I'm Deen</h1>
+<h1 align='center'>Hi, I'm Deen 🗿</h1>
 
 <h2 align='center'> Trainee Full-stack Developer with the <a href='https://www.schoolofcode.co.uk/'>School of Code</a> (recently completed Bootcamp; now seeking junior role!) </h2>
 
