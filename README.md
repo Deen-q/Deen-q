@@ -1,4 +1,4 @@
-<h1 align='center'>Hi, I'm Deen 🗿</h1>
+<h1 align='center'>☀️ Hi, I'm Deen</h1>
 
 <h2 align='center'> Trainee Full-stack Developer with the <a href='https://www.schoolofcode.co.uk/'>School of Code</a> (recently completed Bootcamp; now seeking junior role!) </h2>
 
@@ -40,6 +40,6 @@ For more details on a particular project, please see the respective README.md
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 
 
-### Socials
+### Social(s)
 
 <a href="https://www.linkedin.com/in/deen-qureshi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
