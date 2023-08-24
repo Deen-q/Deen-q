@@ -37,7 +37,7 @@ For more details on a particular project, please see the respective README.md
   </p>
 </div> <!-- end of skills-icons div -->
 
-<h2>Currently Learning</h2>
+<h2>Practising/Currently Learning</h2>
  <p>
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="git" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
