@@ -1,8 +1,8 @@
 <h1 align='center'>☀️ Hi, I'm Deen</h1>
 
-<h2 align='center'> Trainee Full-stack Developer with the <a href='https://www.schoolofcode.co.uk/'>School of Code</a> (recently completed Bootcamp; now seeking junior role!) </h2>
+<h2 align='center'> Trainee Full-stack Developer with the <a href='https://www.schoolofcode.co.uk/'>School of Code</a> (recently completed Bootcamp) </h2>
 
-<p align='center'>Former molecular biologist and microbiologist, who's just started their *life-long commitment* to learning as a developer. It'll be tough; and that's ok.</p>
+<p align='center'>Former molecular biologist and microbiologist, who's just started their *life-long commitment* to learning as a developer. It'll be tough; and that's more than ok.</p>
 <br>
 <p align='center'>"Excellence withers without an adversary" - Seneca (i.e., challenge yourself every day)</p>
 
