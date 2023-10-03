@@ -44,7 +44,7 @@ For more details on a particular project, please see the respective README.md
   </p>
 </div> <!-- end of skills-icons div -->
 
-<h2>Currently Learning</h2>
+<h2>Personal Development (What's next?):</h2>
  <p>
   <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp.svg" width="36" height="36" alt="git" /></a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="36" height="36" alt="git" /></a>
