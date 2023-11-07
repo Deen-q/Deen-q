@@ -1,8 +1,8 @@
 <h1 align='center'>☀️ Hi, I'm Deen</h1>
 
-<h2 align='center'> Junior Full-stack Developer (recently completed <a href='https://www.schoolofcode.co.uk/'>School of Code</a> Bootcamp) </h2>
+<h2 align='center'> Junior Full-stack Developer</h2>
 
-<p align='center'>Former molecular biologist and microbiologist, who's just started their *life-long commitment* to learning as a developer. It'll be tough; and that's more than ok.</p>
+<p align='center'>Former molecular biologist and microbiologist, who's started their <i>life-long commitment</i> of learning as a developer. There's been a lot of challenges, and I continue to welcome the many more that will follow.</p>
 <br>
 <p align='center'>"Excellence withers without an adversary" - Seneca (i.e., challenge yourself every day)</p>
 
@@ -19,7 +19,7 @@ For more details on a particular project, please see the respective README.md
 |------------|------|------|------------------|-|
 |  DynamoDB CRUD Guide | [GitHub](https://github.com/Deen-q/DynamoDB_Guide) | N/A | DynamoDB, Lambda (with IAM), API Gateway | Ongoing |
 |  Portfolio | [GitHub](https://github.com/Deen-q/portfolio-site) | [Site](https://deen-q.vercel.app/)| React, Node |Finished; recieves updates|
-| Local Buzz | [GitHub](https://github.com/Deen-q/SwampySyntax)   |[Site](https://local-buzz.netlify.app/homepage)| React, Node, MongoDB, RTL (testing) | Finished |
+| Local Buzz | [GitHub](https://github.com/Deen-q/SwampySyntax)   |[Site](https://local-buzz.netlify.app/homepage)| React, Node, MongoDB, RTL (Jest) | Finished |
 | Pokemon App| [GitHub](https://github.com/Deen-q/pokemonApp)     |                      N/A                      | React, Node | Incomplete; recieves updates |
 
 </div>
@@ -41,12 +41,12 @@ For more details on a particular project, please see the respective README.md
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws.svg" width="36" height="36" alt="AWS" /></a>
+    <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp.svg" width="36" height="36" alt="git" /></a>
   </p>
 </div> <!-- end of skills-icons div -->
 
 <h2>Personal Development (What's next?):</h2>
  <p>
-  <a href="https://en.wikipedia.org/wiki/C_Sharp_(programming_language)" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp.svg" width="36" height="36" alt="git" /></a>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="36" height="36" alt="git" /></a>
  </p>
 
