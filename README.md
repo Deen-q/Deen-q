@@ -20,7 +20,7 @@ For more details on a particular project, please see the respective README.md
 |  DynamoDB CRUD Guide | [GitHub](https://github.com/Deen-q/DynamoDB_Guide) | N/A | DynamoDB, Lambda (with IAM), API Gateway | Ongoing |
 |  Portfolio | [GitHub](https://github.com/Deen-q/portfolio-site) | [Site](https://deen-q.vercel.app/)| React, Node |Finished; recieves updates|
 | Local Buzz | [GitHub](https://github.com/Deen-q/SwampySyntax)   |[Site](https://local-buzz.netlify.app/homepage)| React, Node, MongoDB, RTL (Jest) | Finished |
-| Pokemon App| [GitHub](https://github.com/Deen-q/pokemonApp)     |                      N/A                      | React, Node | Incomplete; recieves updates |
+| Pokemon App| [GitHub](https://github.com/Deen-q/pokemonApp)     |[Site](https://pokefinder-deen-q.vercel.app/) | React, Node | Complete |
 
 </div>
 
@@ -48,6 +48,7 @@ For more details on a particular project, please see the respective README.md
 <h2>Personal Development (What's next?):</h2>
  <p>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="36" height="36" alt="git" /></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python.svg" width="36" height="36" alt="python" /></a>
  </p>
 
 <h2>Social(s)</h2>
