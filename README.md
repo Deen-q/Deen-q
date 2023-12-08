@@ -1,6 +1,6 @@
 <h1 align='center'>☀️ Hi, I'm Deen</h1>
 
-<h2 align='center'> Junior Full-stack Developer</h2>
+<h2 align='center'> Junior Developer (open to frontend and/or backend)</h2>
 
 <p align='center'>Former molecular biologist and microbiologist, who's started their <i>life-long commitment</i> of learning as a developer. There's been a lot of challenges, and I continue to welcome the many more that will follow.</p>
 <br>
