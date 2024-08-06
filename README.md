@@ -1,12 +1,13 @@
 <h1 align='center'>☀️ Hi, I'm Deen</h1>
 
-<h2 align='center'> Junior Developer (open to frontend and/or backend)</h2>
+<h2 align='center'> Software Engineering Intern</h2>
 
-<p align='center'>Former molecular biologist and microbiologist, who's started their <i>life-long commitment</i> of learning as a developer. There's been a lot of challenges, and I continue to welcome the many more that will follow.</p>
+<p align='center'>From genetic engineering to software engineering.</p>
 <br>
 <p align='center'>"Excellence withers without an adversary" - Seneca (i.e., challenge yourself every day)</p>
 
 <h1 align="center">💼 Projects</h1>
+<h3 align="center" style="color:red">(All bar my website are likely on hold indefinitely due to personal development at work)</h3>
 <p align="center">
 For more details on a particular project, please see the respective README.md
 </p>
@@ -50,9 +51,3 @@ For more details on a particular project, please see the respective README.md
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="36" height="36" alt="git" /></a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python.svg" width="36" height="36" alt="python" /></a>
  </p>
-
-<h2>Social(s)</h2>
- <p>
-  <a href="https://www.linkedin.com/in/deen-qureshi/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />   </a>
- </p>
- <p>Feel free to contact me on LinkedIn :)</p>
