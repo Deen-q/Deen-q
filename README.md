@@ -7,4 +7,4 @@
  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 </div>
-<h3 align="center">Currently working on some private projects - any public projects are from before I broke into tech</h3>
+<h3 align="center">Currently working on some private projects - most public projects are from before I broke into tech (aside from dofusTeamBuilder)</h3>
