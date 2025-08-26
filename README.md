@@ -1,8 +1,8 @@
 <h1>☀️ Hi, I'm Deen</h1>
 <h2> Frontend Web Dev and Game UI Engineer (Coherent Gameface)</h2>
-<h3>Creator of <a href="https://github.com/Deen-q/WinHelper">Tweak Forge</a>, a web app that generates Windows 11 registry scripts via checkboxes for easy system config.</h3>
+<h3>Creator of <a href="https://tweakforge.tools">TweakForge</a>, a web app that generates Windows 11 registry scripts via checkboxes for easy system config.</h3>
 <ul>
- <li>Currently working on: CI/CD and then hosting for <a href="https://github.com/Deen-q/WinHelper">Tweak Forge*</a></li>
+ <li>Currently working on: CI/CD pipeline and more scripts for <a href="https://tweakforge.tools">TweakForge</a>. See the repo <a href="https://github.com/Deen-q/WinHelper">here</a>.
  <li>Portfolio site: scheduled to be reworked</li>
 </ul>
 <h3 align="center">Core Tech Stack:</h3>
